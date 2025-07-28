@@ -30,7 +30,7 @@ This repository gathers several standalone AI projects completed during the fina
 These projects demonstrate proficiency in data preprocessing, model training, evaluation, and deployment, as well as experience with cloud services, containerization, and CI/CD workflows.
 
 ---
-Research Details
+## Research Details
 During our investigation, we identified several intrinsic limitations of large language models (LLMs) that can compromise data integrity and model performance:
 
 Inconsistent Scoring Scales
@@ -56,6 +56,7 @@ Transfer Learning and Domain Adaptation
 Fine‐tuning a pretrained LLM on a narrowly curated, high‐quality dataset can dramatically improve domain‐specific performance. Techniques such as LoRA (Low‐Rank Adaptation) enable efficient updates without retraining billions of parameters.
 
 By addressing these challenges through stringent data curation, consistent annotation practices, and adaptive training strategies, we can greatly enhance the reliability and precision of LLM‐driven insights in wine review analysis and beyond.
+---
 
 ## Getting Started
 
